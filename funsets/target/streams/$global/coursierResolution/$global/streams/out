@@ -1,0 +1,8 @@
+coursier.ResolutionException: Encountered 1 error(s) in dependency resolution:
+  org.scalatest:scalatest_2.11:3.0.1:
+    download error: Caught java.net.ConnectException: Connection timed out (Connection timed out) (Connection timed out (Connection timed out))
+    not found: /home/bpol0190/.ivy2/local/org.scalatest/scalatest_2.11/3.0.1/ivys/ivy.xml
+[error] (*:coursierResolution) coursier.ResolutionException: Encountered 1 error(s) in dependency resolution:
+[error]   org.scalatest:scalatest_2.11:3.0.1:
+[error]     download error: Caught java.net.ConnectException: Connection timed out (Connection timed out) (Connection timed out (Connection timed out))
+[error]     not found: /home/bpol0190/.ivy2/local/org.scalatest/scalatest_2.11/3.0.1/ivys/ivy.xml
